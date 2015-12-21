@@ -1,0 +1,1 @@
+Low-level library for decrypting and parsing Yubikey One-Time Passwords (OTP), written in Microsoft.NET C#.
